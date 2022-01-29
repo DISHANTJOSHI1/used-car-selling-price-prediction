@@ -2,7 +2,7 @@
 Deployment of ML model that predicts used cars selling price.
 Model Used: random forest regression
 
-Model delpoyed on Heroku
+Model delpoyed on Heroku cloud platform
 
 Web Framework used for deployment: Flask
 
